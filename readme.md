@@ -1,3 +1,3 @@
-<img src="./images/screencapture.png" 
+<img src="./images/screenCapture.jpg" 
 width=90% 
 height = auto>
